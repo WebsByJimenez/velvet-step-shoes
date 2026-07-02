@@ -1,0 +1,113 @@
+/* Fuentes personalizadas (Google Fonts)
+   */
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Refuerzo de colores de texto
+   */
+.text-secondary {
+  color: #555555 !important;
+}
+
+.text-dark {
+  color: #212529 !important;
+}
+
+/* Color gris oscuro sofisticado para los enlaces del menú */
+.text-dark-custom {
+  color: #2d2d2d !important;
+  font-weight: 500;
+}
+
+/* Títulos en color vino profundo con un toque de separación de letras */
+.titulo-elegante {
+  color: #5a1827 !important;
+  letter-spacing: 1px;
+}
+
+/* Animacines y efectos hover en estado normales y activos */
+
+/* Transiciones en estado normal para que sean fluidas al entrar y salir */
+.nav-link,
+.btn,
+.text-dark-custom {
+  transition: all 0.3s ease;
+}
+
+/* Oscurezco elementos genéricos al pasar el ratón */
+.nav-link:hover,
+.btn:hover {
+  filter: brightness(90%);
+}
+
+/* El menú se vuelve color vino al pasar el cursor */
+.text-dark-custom:hover {
+  color: #5a1827 !important;
+}
+
+/* Efecto zoom de la imagen (Sección Conócenos) gestionado 100% por CSS */
+.img-hover-container img {
+  transition: transform 0.5s ease;
+}
+
+.img-hover-container:hover img {
+  transform: scale(1.05);
+}
+
+/* Botones y componentes*/
+.btn-outline-danger {
+  border-radius: 50px;
+}
+
+/* Botón Premium personalizado (Color vino) */
+.btn-premium {
+  color: #5a1827;
+  border-color: #5a1827;
+  border-radius: 50px;
+  background-color: transparent;
+}
+
+.btn-premium:hover {
+  background-color: #5a1827;
+  color: #ffffff !important;
+}
+
+/* Footer */
+
+/* Fondo crema elegante y bordes suaves */
+.footer-custom {
+  background-color: #f7f4ed !important;
+  border-color: #e5dfd3 !important;
+}
+
+/* Color de los textos y enlaces del footer */
+.text-footer-custom {
+  color: #5a1827 !important;
+}
+
+/* Estado normal de los enlaces del footer para evitar saltos visuales */
+footer class .text-footer-custom, /* Selector general por si acaso */
+footer a {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+/* Transición sutil hacia arriba al pasar el ratón */
+footer a:hover {
+  transform: translateY(-3px);
+}
