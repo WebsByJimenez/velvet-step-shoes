@@ -51,8 +51,9 @@ El repositorio mantiene una arquitectura de carpetas limpia y estándar:
 └── README.md                 # Documentación del proyecto
 
 Autor
-WebsByJimenez
+WebsByJimenezgit add README.md
 
-https://websbyjimenez.github.io/WEB_ZAPATERIA/
+
+[🔗 Haz clic aquí para ver la aplicación en vivo](https://websbyjimenez.github.io/WEB_ZAPATERIA/)
 
 ```
