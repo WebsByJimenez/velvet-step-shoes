@@ -54,6 +54,6 @@ Autor
 WebsByJimenezgit add README.md
 
 
-[🔗 Haz clic aquí para ver la aplicación en vivo](https://websbyjimenez.github.io/WEB_ZAPATERIA/)
+
 
 ```
