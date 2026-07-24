@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test-001",
+    "nombre": "Laura Martínez",
+    "ciudad": "Toledo",
+    "comentario": "¡Increíblemente cómodos! Compré unas botas para el trabajo y es como caminar sobre nubes. Paso más de 8 horas de pie y mis pies ya no sufren.",
+    "avatar": "./image/Laura_Martinez.jpg",
+    "alt": "Laura Martínez, clienta satisfecha"
+  },
+  {
+    "id": "test-002",
+    "nombre": "Andrés Gómez",
+    "ciudad": "Marbella",
+    "comentario": "Buscaba unos zapatos para una boda y el diseño superó mis expectativas. Recibí muchos cumplidos y la calidad del cuero se nota a simple vista.",
+    "avatar": "./image/Andres_Gomez.jpg",
+    "alt": "Andrés Gómez, cliente satisfecho"
+  },
+  {
+    "id": "test-003",
+    "nombre": "María Alcántara",
+    "ciudad": "Barcelona",
+    "comentario": "Tenía dudas con mi talla y el equipo me asesoró de maravilla por chat. El pedido llegó en menos de 24 horas y la presentación es de diez.",
+    "avatar": "./image/Maria_Alcantara.jpg",
+    "alt": "María Alcántara, clienta satisfecha"
+  },
+  {
+    "id": "test-004",
+    "nombre": "Javier Serrano",
+    "ciudad": "Valencia",
+    "comentario": "Llevo usando mis zapatillas a diario desde hace meses y están como nuevas. Es difícil encontrar esta calidad por un precio tan justo.",
+    "avatar": "./image/Javier_Serrano.jpg",
+    "alt": "Javier Serrano, cliente satisfecho"
+  }
+]

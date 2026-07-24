@@ -1,0 +1,23 @@
+[
+  {
+    "id": "col-001",
+    "titulo": "Línea Ejecutiva",
+    "descripcion": "Elegancia clásica en cuero genuino.",
+    "imagen": "./image/foto_1.jpg",
+    "alt": "Zapatos de línea ejecutiva"
+  },
+  {
+    "id": "col-002",
+    "titulo": "Urban Style",
+    "descripcion": "Tendencia urbana y máxima comodidad.",
+    "imagen": "./image/foto_2.jpg",
+    "alt": "Zapatos de línea Urban Style"
+  },
+  {
+    "id": "col-003",
+    "titulo": "Edición Confort",
+    "descripcion": "Tecnología diseñada para quienes no se detienen.",
+    "imagen": "./image/foto_3.jpg",
+    "alt": "Zapatos de línea Edición Confort"
+  }
+]

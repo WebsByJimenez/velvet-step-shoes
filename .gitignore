@@ -1,0 +1,16 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración del editor (VS Code)
+.vscode/
+*.code-workspace
+
+# Archivos de log
+*.log
+
+# Entornos virtuales o dependencias (por si en el futuro usas Node.js)
+node_modules/
+dist/
+.env
