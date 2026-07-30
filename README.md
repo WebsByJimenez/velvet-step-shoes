@@ -63,8 +63,14 @@ WEB_ZAPATERIA/
 └── README.md                 # Documentación del proyecto
 
 
-✒️ Autor
-WebsByJimenez
+📝 Licencia
+Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+
+## 📦 Instalación y Uso Local
+
+## 👤 Autor
+
+Desarrollado por **WebsByJimenez**.
 
 
 
