@@ -1,6 +1,6 @@
-# 👠 Paso Terciopelo - Zapatería Online Premium
+# 👠 Velvet Step - Zapatería Online Premium
 
-¡Bienvenido a Paso Terciopelo! Este proyecto es una aplicación web moderna y elegante para una zapatería de diseño artesanal. Ha sido desarrollado como proyecto práctico para un curso de programación, combinando un diseño visual cómodo con interactividad en el lado del cliente.
+¡Bienvenido a Velvet Step! Este proyecto es una aplicación web moderna y elegante para una zapatería de diseño artesanal. Ha sido desarrollado como proyecto práctico para un curso de programación, combinando un diseño visual cómodo con interactividad en el lado del cliente.
 
 La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta de colores cuidada (tonos crema y vino profundo `#5a1827`) y una tipografía estilizada (*Raleway*).
 
