@@ -66,7 +66,8 @@ WEB_ZAPATERIA/
 📝 Licencia
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
-## 📦 Instalación y Uso Local
+🚀 Instalación y Uso Local
+No requiere la instalación de dependencias ni servidores externos. Únicamente clona el repositorio u obtén los archivos y abre index.html en cualquier navegador web moderno.
 
 ## 👤 Autor
 
