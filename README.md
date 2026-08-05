@@ -74,14 +74,7 @@ No requiere la instalación de dependencias ni servidores externos. Únicamente 
 
 ## 👤 Autor
 
-Desarrollado por **WebsByJimenez**.
+Desarrollado por **WebsByJimenez**
 
 
 
-
-
-
-
-
-
-```
