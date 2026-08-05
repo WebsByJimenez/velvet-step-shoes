@@ -4,7 +4,10 @@
 
 La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta de colores cuidada (tonos crema y vino profundo `#5a1827`) y una tipografía estilizada (*Raleway*).
 
----
+<p align="center">
+<img src="image/favicon.ico" alt="AgeMetrics Preview" width="300">
+</p>
+
 
 ## 🌐 Demo En Vivo
 
@@ -61,7 +64,7 @@ WEB_ZAPATERIA/
 ├── .gitignore                # Archivos e historiales excluidos de Git
 ├── index.html                # Archivo raíz principal
 └── README.md                 # Documentación del proyecto
-
+```
 
 📝 Licencia
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
