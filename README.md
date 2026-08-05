@@ -5,7 +5,7 @@
 La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta de colores cuidada (tonos crema y vino profundo `#5a1827`) y una tipografía estilizada (*Raleway*).
 
 <p align="center">
-<img src="image/favicon.ico" alt="AgeMetrics Preview" width="300">
+<img src="image/favicon.ico" alt="AgeMetrics Preview" width="400">
 </p>
 
 
