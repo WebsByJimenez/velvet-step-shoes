@@ -1,13 +1,13 @@
 # 👠 Velvet Step - Zapatería Online Premium
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/velvet-step-shop/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/velvet-step-shoes/)
 
 ¡Bienvenido a Velvet Step! Este proyecto es una aplicación web moderna y elegante para una zapatería de diseño artesanal. Ha sido desarrollado como proyecto práctico para un curso de programación, combinando un diseño visual cómodo con interactividad en el lado del cliente.
 
 La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta de colores cuidada (tonos crema y vino profundo `#5a1827`) y una tipografía estilizada (Raleway).
 
 <p align="center">
-  <img src="./image/Cabecera.jpg" alt="Velvet Step Preview" width="600">
+  <img src="./image/favicon.ico" alt="Velvet Step Preview" width="600">
 </p>
 
 ## 🚀 Características principales
@@ -63,7 +63,7 @@ WEB_ZAPATERIA/
 ## 🌐 Demo En Vivo
 
 Puedes probar la aplicación en tiempo real ingresando al siguiente enlace:
-👉 **[Ver App en GitHub Pages](https://WebsByJimenez.github.io/velvet-step-shop/)**
+👉 **[Ver App en GitHub Pages](https://WebsByJimenez.github.io/velvet-step-shoes/)**
 
 ## 🚀 Instalación y Uso Local
 
