@@ -60,11 +60,6 @@ WEB_ZAPATERIA/
 └── README.md                 # Documentación del proyecto
 ```
 
-## 🌐 Demo En Vivo
-
-Puedes probar la aplicación en tiempo real ingresando al siguiente enlace:
-👉 **[Ver App en GitHub Pages](https://WebsByJimenez.github.io/velvet-step-shoes/)**
-
 ## 🚀 Instalación y Uso Local
 
 No requiere la instalación de dependencias ni servidores externos. Únicamente clona el repositorio u obtén los archivos y abre index.html en cualquier navegador web moderno.
