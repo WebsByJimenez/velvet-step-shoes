@@ -15,7 +15,7 @@ La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta 
 ---
 
 <p align="center">
-  <img src="./image/Favicon.jpg" alt="Velvet Step Preview" width="500">
+  <img src="./image/cabecera.jpg" alt="Velvet Step Preview" width="500">
 </p>
 
 ---
