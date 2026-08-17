@@ -1,21 +1,26 @@
 # 👠 Velvet Step - Zapatería Online Premium
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/velvet-step-shoes/)
-
-¡Bienvenido a Velvet Step! Este proyecto es una aplicación web moderna y elegante para una zapatería de diseño artesanal. Ha sido desarrollado como proyecto práctico para un curso de programación, combinando un diseño visual cómodo con interactividad en el lado del cliente.
-
-La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta de colores cuidada (tonos crema y vino profundo `#5a1827`) y una tipografía estilizada (Raleway).
-
-<p align="center">
-  <img src="./image/favicon.ico" alt="Velvet Step Preview" width="600">
-</p>
-
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)](./LICENSE)
 
-## 🚀 Características principales
+---
+
+¡Bienvenido a **Velvet Step**! Este proyecto es una aplicación web moderna y elegante para una zapatería de diseño artesanal. Ha sido desarrollado como proyecto práctico para un curso de programación, combinando un diseño visual cómodo con interactividad en el lado del cliente.
+
+La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta de colores cuidada (tonos crema y vino profundo `#5a1827`) y una tipografía estilizada (Raleway).
+
+---
+
+<p align="center">
+  <img src="./image/Favicon.jpg" alt="Velvet Step Preview" width="500">
+</p>
+
+---
+
+## 🚀 Características Principales
 
 - **Diseño Totalmente Responsive:** Interfaz adaptada dinámicamente mediante Bootstrap para dispositivos móviles, tabletas y ordenadores de escritorio.
 - **Carga Dinámica de Datos (Fetch API):** Contenido de colecciones y testimonios desacoplado en archivos JSON para una arquitectura modular y escalable.
@@ -30,8 +35,6 @@ La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta 
 
 ## 🛠️ Tecnologías Utilizadas
 
-El proyecto fue construido utilizando tecnologías estándar del desarrollo web frontend:
-
 - **HTML5:** Estructura semántica avanzada (uso de etiquetas `<nav>`, `<section>`, `<article>`, `<footer>`, etc.) optimizada para SEO y accesibilidad.
 - **CSS3 Personalizado:** Estilos a medida para tipografías locales (`@font-face`), transiciones fluidas de velocidad (`transition: all 0.3s ease`) y filtros adaptativos.
 - **Bootstrap 5.3 & Icons:** Framework utilizado para asegurar la máxima velocidad, componentes dinámicos y rejilla responsive.
@@ -42,7 +45,8 @@ El proyecto fue construido utilizando tecnologías estándar del desarrollo web 
 
 ## 📂 Estructura del Proyecto
 
-```textWEB_ZAPATERIA/
+```text
+WEB_ZAPATERIA/
 ├── css/
 │   ├── bootstrap.min.css     # Framework CSS local
 │   └── estilos.css           # Estilos personalizados (Fuentes, hover, colores)
@@ -63,6 +67,7 @@ El proyecto fue construido utilizando tecnologías estándar del desarrollo web 
 ├── index.html                # Archivo raíz principal
 ├── LICENSE                   # Términos de la Licencia MIT
 └── README.md                 # Documentación del proyecto
+```
 
 ## 🚀 Instalación y Uso Local
 
@@ -75,4 +80,3 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 ## 👤 Autor
 
 Desarrollado por WebsByJiménez.
-```
