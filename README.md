@@ -10,6 +10,11 @@ La interfaz destaca por un estilo de lujo relajado, estructurada con una paleta 
   <img src="./image/favicon.ico" alt="Velvet Step Preview" width="600">
 </p>
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)](./LICENSE)
+
 ## 🚀 Características principales
 
 - **Diseño Totalmente Responsive:** Interfaz adaptada dinámicamente mediante Bootstrap para dispositivos móviles, tabletas y ordenadores de escritorio.
@@ -37,8 +42,7 @@ El proyecto fue construido utilizando tecnologías estándar del desarrollo web 
 
 ## 📂 Estructura del Proyecto
 
-```text
-WEB_ZAPATERIA/
+```textWEB_ZAPATERIA/
 ├── css/
 │   ├── bootstrap.min.css     # Framework CSS local
 │   └── estilos.css           # Estilos personalizados (Fuentes, hover, colores)
@@ -57,8 +61,8 @@ WEB_ZAPATERIA/
 │   └── main.js               # Lógica JS principal y consumo de JSON (Fetch API)
 ├── .gitignore                # Archivos e historiales excluidos de Git
 ├── index.html                # Archivo raíz principal
+├── LICENSE                   # Términos de la Licencia MIT
 └── README.md                 # Documentación del proyecto
-```
 
 ## 🚀 Instalación y Uso Local
 
@@ -71,3 +75,4 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 ## 👤 Autor
 
 Desarrollado por WebsByJiménez.
+```
